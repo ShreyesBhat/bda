@@ -1,7 +1,8 @@
 # bda
 
 To clone the whole repository (linux), use
-# git clone https://github.com/ShreyesBhat/bda
+
+git clone https://github.com/ShreyesBhat/bda
 
 
 # Safer methods
